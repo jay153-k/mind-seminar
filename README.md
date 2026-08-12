@@ -77,4 +77,4 @@ Together, the presentations follow classical computing from abstract models of c
 Presentation materials were prepared with reference to course materials including:
 
 * Prof. Kunsoo Park — Theory of Computation
-* Prof. Daeryong Jeong — Computer Architecture
+* Prof. Dae R. Jeong — Computer Architecture
