@@ -19,17 +19,17 @@ An introduction to the theoretical foundations and limitations of classical comp
 
 Topics include:
 
-* Finite State Machines
-* Deterministic Finite Automata (DFA)
-* Implementing finite automata
-* Pushdown Automata (PDA)
-* Context-Free Grammars (CFG)
-* Turing Machines
-* The Halting Problem
-* Undecidability
-* Computational complexity and P vs. NP
+- Finite State Machines
+- Deterministic Finite Automata (DFA)
+- Implementing finite automata
+- Pushdown Automata (PDA)
+- Context-Free Grammars (CFG)
+- Turing Machines
+- The Halting Problem
+- Undecidability
+- Computational complexity and P vs. NP
 
-[Current slides](slides/01-computation.pdf)
+[Current slides](slides/01-computation.pdf) · [Notes](notes/01-computation.md)
 
 ### 2. CPU Architecture and Data Movement
 
@@ -37,15 +37,15 @@ An introduction to how classical computation is realized in hardware, primarily 
 
 Topics include:
 
-* RISC-V instructions and execution
-* Datapath and control
-* Single-cycle CPU architecture
-* Pipelined CPU architecture
-* Instruction execution
-* Data movement within the processor
-* Pipeline behavior and hazards
+- RISC-V instructions and execution
+- Datapath and control
+- Single-cycle CPU architecture
+- Pipelined CPU architecture
+- Instruction execution
+- Data movement within the processor
+- Pipeline behavior and hazards
 
-[Current slides](slides/02-cpu-architecture.pdf)
+[Current slides](slides/02-cpu-architecture.pdf) · [Notes](notes/02-cpu-architecture.md)
 
 ### 3. Applications of Classical Computing
 
