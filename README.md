@@ -4,12 +4,17 @@
 
 Technical presentation materials prepared for the MIND Seminar, a student-led seminar at Seoul National University.
 
-My part of the seminar focuses on **classical computing** from four perspectives:
+## Seminar Structure
 
-* theoretical foundations
-* computational limits
-* computer architecture
-* applications
+The MIND Seminar covers a broader range of computing topics presented by multiple participants.
+
+My part focuses on **classical computing**, covering its theoretical foundations, computational limits, architecture, and applications:
+
+1. The Power and Limits of Computation
+2. CPU Architecture and Data Movement
+3. Applications of Classical Computing
+
+Other participants present additional topics related to next-generation computing.
 
 ## Presentations
 
