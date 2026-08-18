@@ -12,7 +12,7 @@ My part focuses on **classical computing**, covering its theoretical foundations
 
 1. The Power and Limits of Computation
 2. CPU Architecture and Data Movement
-3. Applications of Classical Computing
+3. From Efficient Computation to Computational Hardness
 
 Other participants present additional topics related to next-generation computing.
 
@@ -52,25 +52,28 @@ Topics include:
 
 [Current slides](slides/02-cpu-architecture.pdf) · [Notes](notes/02-cpu-architecture.md)
 
-### 3. Applications of Classical Computing
+### 3. From Efficient Computation to Computational Hardness
 
-Planned topics include:
+An exploration of efficient algorithms, data structures, computational complexity, and how computational hardness connects to cryptography.
 
-* Stacks, queues, heaps, and segment trees
-* Dynamic programming
-* Greedy algorithms
-* Algorithmic problem solving
-* Computational complexity
-* Public-key cryptography
-* RSA
+Topics:
 
-Slides: in preparation.
+- Algorithmic efficiency and time complexity
+- Stacks, queues, heaps, and segment trees
+- Greedy algorithms and dynamic programming
+- Using data structures to optimize algorithms
+- Decision problems, P, NP, NP-hardness, and NP-completeness
+- Polynomial-time reductions
+- Hamiltonian Cycle and the Traveling Salesman Problem
+- Public-key cryptography and RSA
+
+[Current slides](slides/03-efficient-computation-and-hardness.pdf)
 
 ## Scope
 
 Together, the presentations follow classical computing from abstract models of computation to physical implementation and practical applications:
 
-**Theory of Computation → Limits of Computation → CPU Architecture → Algorithms and Cryptography**
+**Theory of Computation → Limits of Computation → CPU Architecture → Algorithms → Computational Complexity → Cryptography**
 
 ## References
 
