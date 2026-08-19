@@ -67,7 +67,7 @@ Topics:
 - Hamiltonian Cycle and the Traveling Salesman Problem
 - Public-key cryptography and RSA
 
-[Current slides](slides/03-efficient-computation-and-hardness.pdf)
+[Current slides](slides/03-efficient-computation-and-hardness.pdf) · [Notes](notes/03-efficient-computation-and-hardness.md)
 
 ## Scope
 
