@@ -1,6 +1,6 @@
 # MIND Seminar
 
-> Note: Seminar materials are still being refined and may be updated.
+> Note: Some seminar materials may still be updated as the seminar progresses.
 
 Technical presentation materials prepared for the MIND Seminar, a student-led seminar at Seoul National University.
 
@@ -20,21 +20,19 @@ Other participants present additional topics related to next-generation computin
 
 ### 1. The Power and Limits of Computation
 
-An introduction to the theoretical foundations and limitations of classical computation.
+An introduction to formal models of computation and the fundamental limits of what computers can solve.
 
-Topics include:
+Topics:
 
-- Finite State Machines
-- Deterministic Finite Automata (DFA)
-- Implementing finite automata
-- Pushdown Automata (PDA)
-- Context-Free Grammars (CFG)
+- Finite State Machines and DFA
+- Context-Free Grammars and Pushdown Automata
 - Turing Machines
-- The Halting Problem
-- Undecidability
+- Decidability and recognizability
+- The Halting Problem and undecidability
+- Reductions and Rice's Theorem
 - Computational complexity and P vs. NP
 
-[Current slides](slides/01-computation.pdf) · [Notes](notes/01-computation.md)
+[Slides](slides/01-computation.pdf) · [Notes](notes/01-computation.md)
 
 ### 2. CPU Architecture and Data Movement
 
