@@ -30,7 +30,6 @@ Topics:
 - Decidability and recognizability
 - The Halting Problem and undecidability
 - Reductions and Rice's Theorem
-- Computational complexity and P vs. NP
 
 [Slides](slides/01-computation.pdf) · [Notes](notes/01-computation.md)
 
