@@ -1,7 +1,5 @@
 # MIND Seminar
 
-> Note: Some seminar materials may still be updated as the seminar progresses.
-
 Technical presentation materials prepared for the MIND Seminar, a student-led seminar at Seoul National University.
 
 ## Seminar Structure
@@ -30,24 +28,25 @@ Topics:
 - Decidability and recognizability
 - The Halting Problem and undecidability
 - Reductions and Rice's Theorem
+- Computational complexity and P vs. NP
 
 [Slides](slides/01-computation.pdf) · [Notes](notes/01-computation.md)
 
 ### 2. CPU Architecture and Data Movement
 
-An introduction to how classical computation is realized in hardware, primarily using **RISC-V** as the underlying instruction set architecture.
+A RISC-V-centered introduction to how instructions are executed and how data moves through a processor.
 
-Topics include:
+Topics:
 
-- RISC-V instructions and execution
-- Datapath and control
-- Single-cycle CPU architecture
-- Pipelined CPU architecture
-- Instruction execution
-- Data movement within the processor
-- Pipeline behavior and hazards
+- Instruction Set Architecture and RISC-V
+- Instruction formats and execution
+- Single-cycle datapaths
+- Control and data movement
+- Pipelining
+- Data and control hazards
+- Forwarding, stalls, and branch prediction
 
-[Current slides](slides/02-cpu-architecture.pdf) · [Notes](notes/02-cpu-architecture.md)
+[Slides](slides/02-cpu-architecture.pdf) · [Notes](notes/02-cpu-architecture.md)
 
 ### 3. From Efficient Computation to Computational Hardness
 
@@ -64,11 +63,9 @@ Topics:
 - Hamiltonian Cycle and the Traveling Salesman Problem
 - Public-key cryptography and RSA
 
-[Current slides](slides/03-efficient-computation-and-hardness.pdf) · [Notes](notes/03-efficient-computation-and-hardness.md)
+[Slides](slides/03-efficient-computation-and-hardness.pdf) · [Notes](notes/03-efficient-computation-and-hardness.md)
 
 ## Scope
-
-Together, the presentations follow classical computing from abstract models of computation to physical implementation and practical applications:
 
 **Theory of Computation → Limits of Computation → CPU Architecture → Algorithms → Computational Complexity → Cryptography**
 
